@@ -1,0 +1,14 @@
+D:\Training\Day3\CashWithrawal\CashWithrawal\bin\Debug\net8.0\CashWithrawal.exe
+D:\Training\Day3\CashWithrawal\CashWithrawal\bin\Debug\net8.0\CashWithrawal.deps.json
+D:\Training\Day3\CashWithrawal\CashWithrawal\bin\Debug\net8.0\CashWithrawal.runtimeconfig.json
+D:\Training\Day3\CashWithrawal\CashWithrawal\bin\Debug\net8.0\CashWithrawal.dll
+D:\Training\Day3\CashWithrawal\CashWithrawal\bin\Debug\net8.0\CashWithrawal.pdb
+D:\Training\Day3\CashWithrawal\CashWithrawal\obj\Debug\net8.0\CashWithrawal.GeneratedMSBuildEditorConfig.editorconfig
+D:\Training\Day3\CashWithrawal\CashWithrawal\obj\Debug\net8.0\CashWithrawal.AssemblyInfoInputs.cache
+D:\Training\Day3\CashWithrawal\CashWithrawal\obj\Debug\net8.0\CashWithrawal.AssemblyInfo.cs
+D:\Training\Day3\CashWithrawal\CashWithrawal\obj\Debug\net8.0\CashWithrawal.csproj.CoreCompileInputs.cache
+D:\Training\Day3\CashWithrawal\CashWithrawal\obj\Debug\net8.0\CashWithrawal.dll
+D:\Training\Day3\CashWithrawal\CashWithrawal\obj\Debug\net8.0\refint\CashWithrawal.dll
+D:\Training\Day3\CashWithrawal\CashWithrawal\obj\Debug\net8.0\CashWithrawal.pdb
+D:\Training\Day3\CashWithrawal\CashWithrawal\obj\Debug\net8.0\CashWithrawal.genruntimeconfig.cache
+D:\Training\Day3\CashWithrawal\CashWithrawal\obj\Debug\net8.0\ref\CashWithrawal.dll
